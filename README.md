@@ -1,8 +1,8 @@
-# Basic-Practice-of-NodeJS-2\n
+# Basic-Practice-of-NodeJS-2 
 
-This file is regarding the essential practices of NodeJS.\n
-Please install NodeJS at the link (https://nodejs.org/en/) first.\n
-You can use SublimeText or any other tool to write the JavaScript code.\n
-You can run the NodeJS in the cmd prompt:\n
-Choose the correct directory cd + drag the file with the js file\n
-write node ______.js to run the file in cmd\n
+This file is regarding the essential practices of NodeJS. <br />
+Please install NodeJS at the link (https://nodejs.org/en/) first. <br />
+You can use SublimeText or any other tool to write the JavaScript code. <br />
+You can run the NodeJS in the cmd prompt: <br />
+Choose the correct directory cd + drag the file with the js file <br />
+write node ______.js to run the file in cmd <br />
